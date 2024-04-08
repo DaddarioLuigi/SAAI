@@ -40,7 +40,7 @@ def process():
     }
     
     # Effettua la chiamata API
-    api_key = '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'
+    api_key = 'sk-'
     headers = {'Authorization': f'Bearer {api_key}'}
    
 
