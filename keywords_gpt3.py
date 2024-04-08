@@ -1,7 +1,7 @@
 import requests
 
 def calcola_similarita_gpt3(testo_utente):
-    api_key = 'sk-'
+    api_key = ''
     headers = {'Authorization': f'Bearer {api_key}'}
     
     # La struttura corretta per GPT-3.5 Turbo richiede che 'messages' sia un array
